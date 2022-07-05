@@ -1,0 +1,5 @@
+C:\Users\vektorel\Desktop\30 Haziran 2019\Vektorel.BasicProgramming\Vektorel.DogumGunuHesapla.App\bin\Debug\Vektorel.DogumGunuHesapla.App.exe.config
+C:\Users\vektorel\Desktop\30 Haziran 2019\Vektorel.BasicProgramming\Vektorel.DogumGunuHesapla.App\bin\Debug\Vektorel.DogumGunuHesapla.App.exe
+C:\Users\vektorel\Desktop\30 Haziran 2019\Vektorel.BasicProgramming\Vektorel.DogumGunuHesapla.App\bin\Debug\Vektorel.DogumGunuHesapla.App.pdb
+C:\Users\vektorel\Desktop\30 Haziran 2019\Vektorel.BasicProgramming\Vektorel.DogumGunuHesapla.App\obj\Debug\Vektorel.DogumGunuHesapla.App.exe
+C:\Users\vektorel\Desktop\30 Haziran 2019\Vektorel.BasicProgramming\Vektorel.DogumGunuHesapla.App\obj\Debug\Vektorel.DogumGunuHesapla.App.pdb
